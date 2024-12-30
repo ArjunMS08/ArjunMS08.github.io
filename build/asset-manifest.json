@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ArjunMS08.github.io/static/css/main.89f6ccc6.css",
+    "main.js": "/ArjunMS08.github.io/static/js/main.5277e70d.js",
+    "index.html": "/ArjunMS08.github.io/index.html",
+    "main.89f6ccc6.css.map": "/ArjunMS08.github.io/static/css/main.89f6ccc6.css.map",
+    "main.5277e70d.js.map": "/ArjunMS08.github.io/static/js/main.5277e70d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89f6ccc6.css",
+    "static/js/main.5277e70d.js"
+  ]
+}
